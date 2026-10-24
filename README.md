@@ -9,7 +9,21 @@ No accounts, no telemetry, no bloat — just install and go.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 🧰 Vitool Box
+## 🧰 Vitool Box — all my apps in one place
+
+<p align="center">
+  <a href="https://github.com/VitomDev/Vitool-Box"><img src="https://raw.githubusercontent.com/VitomDev/Vitool-Box/main/assets/vitoolbox.png" width="96" alt="Vitool Box"></a>
+</p>
+
+**[Vitool Box](https://github.com/VitomDev/Vitool-Box)** is the hub for all my tools: browse the apps, read what each one does, and **turn on the ones you want** — it downloads and installs them for you. Turn one off and it's uninstalled. Updates are one click away, and new apps show up on their own.
+
+<p align="center">
+  <a href="https://github.com/VitomDev/Vitool-Box/releases/latest"><img src="https://img.shields.io/badge/Download-Vitool_Box-5B5EF0?style=for-the-badge&logo=windows11&logoColor=white" alt="Download Vitool Box"></a>
+</p>
+
+### 📦 Apps in the box
+
+Install them from Vitool Box, or one by one from each repo's Releases.
 
 | App | What it does |
 | --- | --- |
@@ -20,7 +34,7 @@ No accounts, no telemetry, no bloat — just install and go.
 | 🖼️ [**Iris Image**](https://github.com/VitomDev/Iris-Image) | Convert images to PNG, JPG, WebP, ICO and more from the Explorer context menu |
 | 🎬 [**Mura Converter**](https://github.com/VitomDev/Mura-Converter) | Download and convert video or audio to MP4, MP3, M4A, Opus or WAV |
 
-⚡ Native, lightweight and offline-first · 📦 One-click installers in each repo's Releases · 📄 MIT licensed
+⚡ Native, lightweight and offline-first · 🧰 Managed from [Vitool Box](https://github.com/VitomDev/Vitool-Box) · 📄 MIT licensed
 
 ## 📲 Contact
 
